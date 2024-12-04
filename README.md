@@ -61,6 +61,7 @@
 ### **Dataset folder:**
 1. heart_2020_cleaned.csv: First download dataset.
 2. Heart_2020_Processed.csv: The data set after preprocessing and encoding will be used for the next steps.
+3. encode_meaning.txt: Meaning of categories after being encoded.
 ### **Requirement folder:**
   Requirements to be implemented in this project.
 ### **Source folder:** 
