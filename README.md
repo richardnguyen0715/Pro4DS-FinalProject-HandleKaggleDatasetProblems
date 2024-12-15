@@ -3,7 +3,7 @@
 ### **Final Project - Handle Kaggle Dataset Problems**
 #### **Due:** 16/12/2024.
 #### **Lớp:** 22_21.
-#### **Giảng viên hướng dẫn:** Thầy Phạm Trọng Nghĩa - Thầy Lê Nhựt Nam.
+#### **Giảng viên hướng dẫn:** Thầy Phạm Trọng Nghĩa - Thầy Lê Nhựt Nam - Thầy Vũ Công Thành.
 #### **Tên Nhóm:** 3TT
 #### **MSSS - Tên thành viên:**
 1. 22120384 - Nguyễn Đình Trí.
@@ -67,3 +67,8 @@
 1. Data Collection stage: `Source\DataCollection.ipynb`
 2. Data Preprocessing and Statistic Exploration stage: `Source\DataPreprocessing.ipynb`
 3. Data Exploration stage: `Source\DataExploration.ipynb`
+
+---
+
+## Our Teamwork Tracking website:
+Link here : [Pro4DS-FinalProject-Kaggle vs Real-World Problems](https://pool-argument-1f9.notion.site/Pro4DS-FinalProject-Real-World-Problems-1500a9b1c8bb80f89a1bd04bf2f1f98f?pvs=4)
