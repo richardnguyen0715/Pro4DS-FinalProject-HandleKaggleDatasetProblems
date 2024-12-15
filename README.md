@@ -3,7 +3,7 @@
 ### **Final Project - Handle Kaggle Dataset Problems**
 #### **Due:** 16/12/2024.
 #### **Lớp:** 22_21.
-#### **Giảng viên hướng dẫn:** Thầy Phạm Trọng Nghĩa - Thầy Lê Nhựt Nam.
+#### **Giảng viên hướng dẫn:** Thầy Phạm Trọng Nghĩa - Thầy Lê Nhựt Nam - Thầy Vũ Công Thành.
 #### **Tên Nhóm:** 3TT
 #### **MSSS - Tên thành viên:**
 1. 22120384 - Nguyễn Đình Trí.
