@@ -52,7 +52,6 @@
 3. Run Data Collection: `Source\DataCollection.ipynb`
 4. Run Data Preprocessing: `Source\DataPreprocessing.ipynb`
 5. Run Data Exploration: `Source\DataExploration.ipynb`
-6. Run Model: `Source\DataModeling&Evaluation.ipynb`
 
 ---
 
@@ -68,4 +67,3 @@
 1. Data Collection stage: `Source\DataCollection.ipynb`
 2. Data Preprocessing and Statistic Exploration stage: `Source\DataPreprocessing.ipynb`
 3. Data Exploration stage: `Source\DataExploration.ipynb`
-4. Data modeling & evaluation stage: `Source\DataModeling&Evaluation.ipynb`
